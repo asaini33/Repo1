@@ -1,3 +1,4 @@
 Just checking GIT
-Checking the dit
+Checking the edit
+Checking the diff edit
 
