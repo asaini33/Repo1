@@ -1,4 +1,4 @@
 Just checking GIT
 Checking the edit
 Checking the diff edit
-
+checking the staged changes
